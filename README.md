@@ -157,11 +157,7 @@ To run entity tests
 make test_entity
 ```
 
-## System Architect
 
-The system designed following [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) guideline.
-
-![Clean Architect](https://blog.cleancoder.com/uncle-bob/images/2012-08-13-the-clean-architecture/CleanArchitecture.jpg)
 
 ### Project structure
 
